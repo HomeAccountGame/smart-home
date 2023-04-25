@@ -5,6 +5,11 @@
 The game that learn you How to manage financially correctly!
 --
 
+קישור למשחק
+
+https://smarthomegame.itch.io/smart-home
+
+
 משחק לימודי חוויתי ומהנה! 
 המשחק מאפשר לכם להתנסות בדרך חווייתית ומהנה בתכנון ובניהול נכון של תקציב
 משק הבית.
