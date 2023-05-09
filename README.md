@@ -4,7 +4,9 @@
 --
 The game that learn you How to manage financially correctly!
 --
-
+נוסף סטינצת פתיחה
+	
+	
 קישור למשחק
 
 https://smarthomegame.itch.io/smart-home
